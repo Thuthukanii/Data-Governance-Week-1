@@ -1,4 +1,4 @@
-# Data-Governance-Week-1
+ # Data-Governance-Week-1
 
 <details>
 <summary> Charpter 1 : Defining Data Governance </summary>
@@ -117,5 +117,13 @@ Ensure legal and compliance support.
 Verify the existence of fundamental data skills and IT support.
 Ongoing Assessment: Continuously assess the organization's readiness for data governance throughout the planning and implementation process.
 </details>
+
+</details>
+
+<details>
+<summary>Chapter 2 Exploring a World Overflowing with Data</summary>
+<br>
+
+
 
 </details>
